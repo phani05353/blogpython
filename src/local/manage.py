@@ -1,0 +1,1 @@
+/home/nitrous/blog/blog/manage.py
